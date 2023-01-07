@@ -97,3 +97,25 @@ margin-bottom: 16px;
 font-size: 25px;
 color: #737272;
 }
+/* image section with gradient */
+.img{background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0) 100%),url(../images/watch.png);
+    position: relative;
+    width: 1140px;
+height: 300px;
+left: 230px;
+border-radius: 8px;
+}
+.img-description{
+    font-weight: 700;
+    font-size: 40px;
+    color: #FFFFFF;
+   text-align: left;
+   padding: 59px 617px 24px 64px;
+}
+.btn-call{
+    width: 160px;
+    height: 64px;
+    left: 294px;
+    top: 2398.96px;
+    margin-left: 64px;
+}
